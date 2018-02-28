@@ -1,0 +1,28 @@
+a:hover,
+a:focus,
+.smartblog_latest_posts_widget .latest-post .post-name a:hover,
+.footer .copyright a,
+.post-item  .post-cat a,
+.post-item .post-name a:hover,
+.navigation a:hover,
+.post-item .post-item-share .icon ,
+.post-item .post-item-share .box-content a:hover,
+.post-detail .tags a:hover,
+.smart-mainmenu > li:hover>a,
+.smart-mainmenu > li.active>a,
+.smart-mainmenu .submenu > li:hover > a,
+.smart-mainmenu .submenu > li.active > a,
+.page-links >span{
+    color:#a19917;
+}
+
+.button:hover,
+input[type="submit"]:hover,
+.button:focus,
+input[type="submit"]:focus,
+.post-item .post-metas:before,
+.featured-category-item .cat-name:hover,
+.backtotop:hover,
+.backtotop:focus{
+    background-color:#a19917;
+}
